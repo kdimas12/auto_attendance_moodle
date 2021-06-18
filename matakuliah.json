@@ -1,0 +1,14 @@
+{
+  "courses": [
+      {
+        "weekday": 1,
+        "nama": "Pemrograman Visual",
+        "link": "https://elearning.uinsu.ac.id/mod/attendance/view.php?id=80950&view=5"
+      },
+      {
+        "weekday": 3,
+        "nama": "Prak. Pemrograman Visual",
+        "link": "https://elearning.uinsu.ac.id/mod/attendance/view.php?id=79772&view=5"
+      }
+  ]
+}
