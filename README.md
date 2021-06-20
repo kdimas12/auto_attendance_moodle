@@ -20,6 +20,12 @@ then move to directory
 cd auto_attendence_moodle
 ```
 
+install dependency
+
+```bash
+pip3 install requirements.py
+```
+
 and you can just run the program
 
 ```bash
