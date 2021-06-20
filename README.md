@@ -23,7 +23,7 @@ cd auto_attendence_moodle
 install dependency
 
 ```bash
-pip3 install requirements.py
+pip3 install requirements.txt
 ```
 
 and you can just run the program
